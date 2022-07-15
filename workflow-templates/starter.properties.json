@@ -1,5 +1,5 @@
 {
-  "name": "Miljødirektoratet - build and push to ACR",
+  "name": "audunsolemdal - build and push to ACR",
   "description": "Starter workflow showing demonstrating how to push to ACR",
   "categories": ["Dockerfile"],
   "filePatterns": ["^Dockerfile"]
